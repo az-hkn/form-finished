@@ -1,2 +1,2 @@
 # form-finished
-basic JS excersice to fill and validate a form
+basic JS exercise to fill , publish and validate a message (tweets) in local storage.
